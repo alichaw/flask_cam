@@ -1,0 +1,13 @@
+numpy
+pandas
+gdown
+tqdm
+Pillow
+opencv-python-headless
+tensorflow
+keras
+Flask
+gunicorn
+psycopg2
+uwsgi
+deepface
